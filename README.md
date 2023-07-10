@@ -35,6 +35,7 @@ The deadline for completing this task is the end of the day (EOD) on July 13th.
 - Participants are free to use any framework of their choice for building the form and UI. They can select from popular options such as React, Angular, Vue.js, or any other framework they are comfortable with.
 
 - We encourage you to write clean and well-documented code. This will make reviewing your submissions easier and allow for better evaluation of your skills.
+- Its optional but if you use [react hook form](https://www.react-hook-form.com), it would make form handling and validation lot simpler.
 
 ## Firestore config file
 ```
