@@ -2,7 +2,7 @@
 
 ## Description
 
-The task involves creating a form with specific fields and submitting the form. On submission, the data should be stored in a [Firestore database](https://firebase.google.com/docs/firestore). Yor are also required to create a collection with your first name and branch, following a specific naming convention (mentioned below).
+The task involves creating a form with specific fields and submitting the form. On submission, the data should be stored in a [Firestore database](https://firebase.google.com/docs/firestore). Yor are also required to create a collection with your first name and branch, following a specific naming convention (mentioned below). I can add some good resources for firebase and form but I want to test your Googling skills. But wherever you fill confused, feel free to ask in WhatsApp group.
 
 ## Task Requirements
 
@@ -77,4 +77,6 @@ or if you want to use CDN here is the script
 </script>
 ```
 
-
+## FAQ
+Q: How would you know wheather you have succesfully connected to database or not?<br>
+A: When we add document to firestore, in response we get a document id, so if you're getting this id that means you have succesfully        connected to database.
