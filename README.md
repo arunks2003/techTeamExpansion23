@@ -24,7 +24,7 @@ The task involves creating a form with specific fields and submitting the form. 
    - Collection Name: FirstNameBranch
    - For example, if a participant's name is "Balveer Singh Rao" and their branch is "Electrical Engineering" the collection name would be "BalveerElectrical".
 
-7. Once participants complete the task, they are required to raise a pull request on this repository.
+7. Once participants complete the task,host the form on services like (netlify or vercel) and raise a pull request on this repository with the link of your hosted site in description.
 
 ## Deadline
 
